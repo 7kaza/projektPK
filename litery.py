@@ -1,4 +1,3 @@
-def isalpha():
+def isalpha(txt):
     txt = "ala ma kota"
-    x = txt.isaplha()
-    return (x)
+    return txt.isalpha()
